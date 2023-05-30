@@ -1,0 +1,50 @@
+{
+  "1": {
+    "id": 1,
+    "name": "band1",
+    "coordinates": {
+      "x": 1,
+      "y": 1.0
+    },
+    "numberOfParticipants": 2,
+    "albumsCount": 2,
+    "description": "description",
+    "genre": "SOUL",
+    "bestAlbum": {
+      "name": "album 1",
+      "length": 3
+    }
+  },
+  "2": {
+    "id": 2,
+    "name": "band2",
+    "coordinates": {
+      "x": 1,
+      "y": 2.0
+    },
+    "numberOfParticipants": 2,
+    "albumsCount": 2,
+    "description": "description",
+    "genre": "BLUES",
+    "bestAlbum": {
+      "name": "album 2",
+      "length": 3
+    }
+  },
+  "3": {
+    "id": 3,
+    "name": "band3",
+    "coordinates": {
+      "x": 1,
+      "y": 3.0
+    },
+    "numberOfParticipants": 2,
+    "albumsCount": 2,
+    "description": "description",
+    "genre": "BRIT_POP",
+    "bestAlbum": {
+      "name": "album 3",
+      "length": 3
+    }
+  }
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="17.0.1" class="java.beans.XMLDecoder">
+ <object class="java.util.TreeMap">
+  <void method="put">
+   <long>1</long>
+   <object class="org.itmo.labs.model.MusicBand"/>
+  </void>
+  <void method="put">
+   <long>2</long>
+   <object class="org.itmo.labs.model.MusicBand"/>
+  </void>
+  <void method="put">
+   <long>3</long>
+   <object class="org.itmo.labs.model.MusicBand"/>
+  </void>
+ </object>
+</java>
